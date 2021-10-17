@@ -1,0 +1,14 @@
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\bin\Debug\netcoreapp3.1\GarageApplication.exe
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\bin\Debug\netcoreapp3.1\GarageApplication.deps.json
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\bin\Debug\netcoreapp3.1\GarageApplication.runtimeconfig.json
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\bin\Debug\netcoreapp3.1\GarageApplication.runtimeconfig.dev.json
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\bin\Debug\netcoreapp3.1\GarageApplication.dll
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\bin\Debug\netcoreapp3.1\GarageApplication.pdb
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.csproj.AssemblyReference.cache
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.AssemblyInfoInputs.cache
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.AssemblyInfo.cs
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.csproj.CoreCompileInputs.cache
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.dll
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.pdb
+C:\Users\46722\Downloads\GarageApplication-master\GarageApplication-master\GarageApplication\obj\Debug\netcoreapp3.1\GarageApplication.genruntimeconfig.cache

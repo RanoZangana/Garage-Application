@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zirRkQoQ7u2IiIDdoXw5lWuRqFWK+2wrzoat1wVNrqcOEXD+Ai7xQilEvTpBK5xaGDIM7PV1UW66KKG7la+v1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\46722\\Downloads\\GarageApplication-master\\GarageApplication-master\\GarageApplication\\GarageApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46722\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512",
+    "C:\\Users\\46722\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\46722\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\46722\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
